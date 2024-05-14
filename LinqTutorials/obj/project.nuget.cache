@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "drkBWfmx7i4/K6xpeIB9sldnPcTGtkgve8epq4oiphgbsAKxjc3ENxDsGeNY2kEmcFGLl/2Qatjx+/W1Q48M3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ALBERTUS\\Desktop\\LinqCwiczenia\\LinqTutorials\\LinqTutorials.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ALBERTUS\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ALBERTUS\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ALBERTUS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ALBERTUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
